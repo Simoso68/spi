@@ -1,0 +1,8 @@
+{
+    "download": {
+        "url":"example.url/download",
+        "location":"/usr/bin/myPackage"
+    },
+    "preinstall": ["echo Installation will start.", "echo Hello world."],
+    "postinstall": ["echo Installation completed!!!"]
+}

@@ -1,0 +1,12 @@
+{
+    "version":"1.0.0",
+    "contributors": ["Simoso68"],
+    "info": {
+        "webpage":"https://example.url/homepage",
+        "license":"GNU General Public License",
+        "description": {
+            "long":"A by Simoso68 provided template for a repository made for SPI.",
+            "short":"A repository template."
+        }
+    }
+}

@@ -29,5 +29,5 @@ if ($1 == "help") then
         echo "repo"
     fi
 elif ($1 == "install") then
-    bash /usr/bin/.spi/install/search/init.sh $2 $3
+    bash /usr/bin/.spi/install/search/init.sh search $2 $3
 fi
