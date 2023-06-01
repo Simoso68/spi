@@ -1,2 +1,3 @@
-# spi
- Simoso's Package Installer
+# SPI
+
+Simoso's Package Installer

@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+
+from sys import argv
+from subprocess import run
+
+start = ["python3", "/usr/bin/.spi/main.sh"]
+
+for arg in argv[1:]:
+    start.append(arg)
+
+run(start)
