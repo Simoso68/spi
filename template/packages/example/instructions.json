@@ -1,6 +1,7 @@
 {
     "download": {
         "url":"example.url/download",
+        "mirrors":[],
         "location":"/usr/bin/myPackage"
     },
     "preinstall": ["echo Installation will start.", "echo Hello world."],

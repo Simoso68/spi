@@ -1,0 +1,1 @@
+spi install $1 -y
